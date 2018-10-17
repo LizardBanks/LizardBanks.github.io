@@ -1,0 +1,119 @@
+/* Hamburger Icon */
+
+.mdl-layout__drawer-button {
+    background-image: url(../images/icon_menu.png);
+    background-size: auto 24px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: none;
+}
+/* This makes the drawer come out from the right. 
+    .mdl-layout__drawer-button, .mdl-layout__drawer{
+        left: initial;
+        right: 0;
+    }
+
+    .mdl-layout__drawer{    
+        transform:translateX(250px);
+    }
+.mdl-layout__drawerClosed{
+	display: none;
+}
+
+/*.mdl-layout .mdl-layout__drawer-button i {
+    display: none;
+}
+/* Top row */
+
+.mdl-layout__header-row {
+    padding: 0 10px 0 10px;
+}
+
+#home {
+    padding-right: 15px;
+}
+
+/* Card photo vs. Text */
+
+.cardPhoto {
+    float: right;
+    width: 35%;
+    height: 80%;
+    margin-top: 3%;
+}
+
+.cardPhoto img {
+    border-radius: 15px;
+}
+
+.icon_button {
+    margin-right: 2%;
+}
+
+.cardText {
+    float: right;
+    width: 65%
+}
+
+/* Standard Card CSS */
+
+.mdl-card {
+    margin-top: 2%;
+}
+
+.mdl-card__title-text a,
+.patientName {
+    color: #008000;
+    text-decoration: underline;
+}
+
+/* Tables */
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+th {
+    border-bottom: 1px solid;
+}
+
+/* Text Areas */
+
+textarea {
+    resize: none;
+}
+
+/* Make Top Details show new lines */
+
+.mdl-tabs__tab {
+    height: 45px;
+    line-height: 1.5;
+}
+
+.mdl-tabs__tab p {
+    margin-top: 20px;
+}
+
+
+/* Back button General */
+
+.generalBack {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    z-index: 24;
+    background-color: white;
+    padding: 15px;
+    border-radius: 25px;
+
+}
+
+
+/* Error Messages */
+
+.error_msg {
+    color: white;
+    background-color: red;
+    text-align: center;
+}

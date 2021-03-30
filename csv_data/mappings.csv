@@ -1,0 +1,115 @@
+ID,Key,Name,Track Record,Expressed Capability,True Capability,Lapsed Capability,Potential Capability,No Capability,Longitude,Latitude
+1,ABN,University of Aberdeen,0,1,0,1,0,0,-2.0991223,57.165019
+2,ABR,Abertay University,1,1,1,0,0,0,-2.9741806,56.4632206
+3,ABE,Aberystwyth University,0,0,0,0,0,1,-4.0656241,52.4176035
+4,ARU,Anglia Ruskin,0,0,0,0,0,1,0.1350772,52.2034325
+5,AST,Aston University,1,1,1,0,0,0,-1.890952,52.4866368
+6,BAN,Bangor University,0,0,0,0,0,1,-4.1288427,53.2292005
+7,BAT,Univesity of Bath,1,1,1,0,0,0,-2.3322964,51.3799219
+8,BTS,Bath Spa University,0,0,0,0,0,1,-2.386322,51.382937
+9,BED,University of Bedfordshire,0,0,0,0,0,1,-0.4115372,51.8781407
+10,BIR,University of Birmingham,0,1,0,1,0,0,-1.9317168,52.4511304
+11,BBK,Birkbeck University of London,0,0,0,0,0,1,-0.1303384,51.5218349
+12,BCU,Birmingham City University,0,1,0,1,0,0,-1.8890631,52.4822284
+13,BOL,University of Bolton,0,0,0,0,0,1,-2.4362463,53.572978
+14,BU,Bournemouth University,1,1,1,0,0,0,-1.8970072,50.743488
+15,BRA,University of Bradford,0,0,0,0,0,1,-1.7658847,53.7914265
+16,BRG,University of Brighton,1,1,1,0,0,0,-0.1193193,50.8426452
+17,BRI,Univesity of Bristol,1,1,1,0,0,0,-2.6074655,51.4570995
+18,BUL,Brunel University London,0,0,0,0,0,1,-0.472545,51.533116
+19,CAM,University of Cambridge,0,1,0,1,0,0,0.1164367,52.2049458
+20,CCC,Canterbury Christ Church  University,0,0,0,0,0,1,1.0894388,51.2795659
+21,CAR,Cardiff University,1,1,1,0,0,0,-3.1797798,51.4889238
+22,CMU,Cardiff Metropolitan University,0,0,0,0,0,1,-3.2140591,51.4967028
+23,CEL,University of Central Lancashire,0,0,0,0,0,1,-2.7073842,53.7613383
+24,CHE,University of Chester,0,1,0,1,0,0,-2.8972882,53.1987272
+25,CHI,University of Chichester,0,0,0,0,0,1,-0.7746834,50.8440434
+26,CIT,City University of London,1,1,1,0,0,0,-0.1026115,51.5279411
+27,COV,Coventry University,1,1,1,0,0,0,-1.5003874,52.4052512
+28,CRA,Cranfield University,0,1,0,1,0,0,-1.6371446,51.6055434
+29,CUM,University of Cumbria,0,0,0,0,0,1,-2.9647431,54.4353698
+30,DMU,De Montford University,1,1,1,0,0,0,-1.1380354,52.6294673
+31,DER,University of Derby,1,0,0,0,1,0,-1.4976274,52.9381416
+32,DUN,University of Dundee,0,0,0,0,0,1,-2.9779502,56.4577004
+33,DUR,Durham University,0,0,0,0,0,1,-1.5713476,54.7674435
+34,UEA,University of East Anglia,0,0,0,0,0,1,1.2413911,52.6223695
+35,UEL,University of East London,1,1,1,0,0,0,0.0623372,51.50645
+36,EHU,Edge Hill University,0,0,0,0,0,1,-2.8733739,53.5598905
+37,EDI,University of Edinburgh,1,1,1,0,0,0,-3.1876628,55.9474525
+38,ENU,Edinburgh Napier University,0,1,0,1,0,0,-3.2885402,55.9244227
+39,ESS,University of Essex,0,0,0,0,0,1,0.9433172,51.8762431
+40,EXE,University of Exeter,1,1,1,0,0,0,-3.5339174,50.7327303
+41,GLA,University of Glasgow,1,1,1,0,0,0,-4.2887118,55.8706787
+42,GCU,Glasgow Caledonian University,0,0,0,0,0,1,-4.2502087,55.8671358
+43,GLO,University of Gloucestershire,0,1,0,1,0,0,-2.0884577,51.8869679
+44,GOL,"Goldsmiths, University of London",0,0,0,0,0,1,-0.0357009,51.4741132
+45,GRE,University of Greenwich,1,1,1,0,0,0,-0.0039364,51.4843795
+46,HWU,Heriot-Watt University,1,0,0,0,1,0,-3.3199439,55.909299
+47,HER,University of Hertfordshire,0,0,0,0,0,1,-0.2421732,51.7528765
+48,UHI,University of the Highlands & Islands,0,0,0,0,0,1,-4.2302756,57.4693582
+49,HUD,University of Huddersfield,0,0,0,0,0,1,-1.7776337,53.6434572
+50,HUL,University of Hull,0,0,0,0,0,1,-0.3668239,53.7712765
+51,ICL,Imperial College London,1,1,1,0,0,0,-0.1772696,51.4981213
+52,KEE,Keele University,0,0,0,0,0,1,-2.2737212,53.0030511
+53,KEN,University of Kent,1,1,1,0,0,0,1.0713955,51.2985595
+54,KCL,King's College London,1,1,1,0,0,0,-0.1165105,51.5115005
+55,KIN,Kingston University,0,0,0,0,0,1,-0.3083435,51.4061961
+56,LAN,Lancaster University,1,0,0,0,1,0,-2.788237,54.0106601
+57,LEE,University of Leeds,0,0,0,0,0,1,-1.5540873,53.8079251
+58,LBU,Leeds Beckett University,0,0,0,0,0,1,-1.5495052,53.8030638
+59,LEI,University of Leicester,0,0,0,0,0,1,-1.1244254,52.6223041
+60,LIN,University of Lincoln,0,0,0,0,0,1,-0.5486692,53.2287413
+61,LIV,University of Liverpool,1,1,1,0,0,0,-2.9667288,53.4056471
+62,LJM,Liverpool John Moores University,0,0,0,0,0,1,-2.990918,53.4095204
+63,UCL,University College London,1,1,1,0,0,0,-0.1334753,51.5242957
+64,LMU,London Metropolitan University,0,0,0,0,0,1,-0.1104235,51.5515969
+65,LSB,London South Bank University,0,0,0,0,0,1,-0.1009434,51.4986222
+66,LOU,Loughborough University,0,0,0,0,0,1,-1.228764,52.7653383
+67,MAN,University of Manchester,0,0,0,0,0,1,-2.2335952,53.466681
+68,MMU,Manchester Metropolitan University,0,0,0,0,0,1,-2.2395057,53.4706824
+69,MID,Middlesex University,0,0,0,0,0,1,-0.2297126,51.5898947
+70,NEW,Newcastle University,1,1,1,0,0,0,-1.6159184,54.9804221
+71,NOR,University of Northampton,0,0,0,0,0,1,-0.8869889,52.2304878
+72,NRT,Northumbria University,0,0,0,0,0,1,-1.6063007,54.9771059
+73,NOT,University of Nottingham,0,0,0,0,0,1,-1.1923133,52.9399119
+74,NTU,Nottingham Trent University,0,0,0,0,0,1,-1.1507127,52.9576805
+75,OPE,Open University,1,1,1,0,0,0,-0.143398,51.5409613
+76,OXF,University of Oxford,1,1,1,0,0,0,-1.2621596,51.757988
+77,OBU,Oxford Brookes University,0,1,0,1,0,0,-1.2245289,51.7538508
+78,PLY,Plymouth University,0,0,0,0,0,1,-4.1387658,50.3751081
+79,POR,University of Portsmouth,1,1,1,0,0,0,-1.093421,50.79518
+80,QMU,"Queen Mary, University of London",0,0,0,0,0,1,-0.0407197,51.5245287
+81,QUB,Queen's University Belfast,0,0,0,0,0,1,-5.9353941,54.5838653
+82,REA,University of Reading,0,0,0,0,0,1,-0.9456216,51.4576163
+83,RGU,Robert Gordon University,0,0,0,0,0,1,-2.1452495,57.1180675
+84,ROE,Roehampton University,0,0,0,0,0,1,-0.2468033,51.4553119
+85,RHU,"Royal Holloway, University of London",1,1,1,0,0,0,-0.5671221,51.4253246
+86,SAL,University of Salford,0,0,0,0,0,1,-2.2713075,53.4833769
+87,SHE,University of Sheffield,0,1,0,1,0,0,-1.4888948,53.3816826
+88,SHU,Sheffield Hallam University,0,0,0,0,0,1,-1.4652554,53.3791942
+89,SOL,Solent University,0,0,0,0,0,1,-1.4001658,50.9077473
+90,USW,Univesity of South Wales,0,1,0,1,0,0,-3.3263,51.588664
+91,SOU,University of Southampton,1,0,0,0,1,0,-1.3956847,50.934189
+92,STA,University of St Andrews,0,0,0,0,0,1,-2.793626,56.341382
+93,STI,Univsity of Stirling,0,0,0,0,0,1,-3.9204755,56.1453043
+94,STR,University of Strathclyde,0,0,0,0,0,1,-4.2452295,55.8612977
+95,STA,Staffordshire University,0,0,0,0,0,1,-2.1803573,53.0093298
+96,SUF,University of Suffolk,0,0,0,0,0,1,1.1628059,52.0524891
+97,SUN,University of Sunderland,0,0,0,0,0,1,-1.3914797,54.9047206
+98,SUR,University of Surrey,0,1,0,1,0,0,-0.5880721,51.2440379
+99,SUS,University of Sussex,0,0,0,0,0,1,-0.0872886,50.8646237
+100,SWA,Swansea University,1,1,1,0,0,0,-3.980856,51.6088317
+101,TEE,Teeside University,1,1,1,0,0,0,-1.2369515,54.5704654
+102,ULS,Ulster University,0,0,0,0,0,1,-1.8985158,52.4762241
+103,UWT,"University of Wales, Trinity Saint David",0,0,0,0,0,1,-4.0761851,52.1139511
+104,WAR,University of Warwick,1,0,0,0,1,0,-1.5649432,52.3860241
+105,UWE,University of West England,0,0,0,0,0,1,-2.5495752,51.5014941
+106,UWS,University of the West of Scotland,0,0,0,0,0,1,-3.5881724,55.0492939
+107,UWL,University of West London,0,0,0,0,0,1,-0.3030995,51.5072257
+108,WES,University of Westminster,0,0,0,0,0,1,-0.1433666,51.516792
+109,WIN,University of Winchester,0,0,0,0,0,1,-1.3277627,51.0599221
+110,WOL,University of Wolverhampton,0,0,0,0,0,1,-2.1284204,52.5878478
+111,WOR,University of Worcester,0,0,0,0,0,1,-2.2421521,52.1975281
+112,WGU,Wrexham Glyndwr University,0,0,0,0,0,1,-3.0057786,53.0533626
+113,YOR,University of York,1,0,0,0,1,0,-1.0533357,53.9485295
+114,YSJ,York St John University,0,1,0,1,0,0,-1.0801422,53.9652903
